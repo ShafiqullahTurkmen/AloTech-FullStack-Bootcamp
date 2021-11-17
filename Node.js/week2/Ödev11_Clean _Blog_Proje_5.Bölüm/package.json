@@ -1,0 +1,29 @@
+{
+  "name": "cleanbloge",
+  "version": "1.0.0",
+  "description": "Clean Bloge Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Clean",
+    "bloge",
+    "Project"
+  ],
+  "author": "Shafiqullah Turkmen",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.14",
+    "npm": "^8.1.1",
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.12"
+  }
+}
