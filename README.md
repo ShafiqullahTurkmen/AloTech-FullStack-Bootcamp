@@ -12,18 +12,18 @@ This repository contains my assignments and homework for [Patika & AloTech FullS
 [Week 3 - SmartEdu Project](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week3)
 
 ##### [React](https://github.com/ShafiqullahTurkmen/Full-Stack-Repository/tree/main/React/)
-Week 1
+[Week 4 - TV Series Tracker](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/React/week4) 
 
-Week 2
+Week 5
 
-Week 3
+Week 6
 
 ##### [Django](https://github.com/ShafiqullahTurkmen/Full-Stack-Repository/tree/main/Django/)
-Week 1
+Week 7
 
-Week 2
+Week 8
 
-Week 3
+Week 9
 
 ## Installation
 You can clone the project with the following link: (https://github.com/ShafiqullahTurkmen/Full-Stack-Repository.git)
